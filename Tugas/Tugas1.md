@@ -27,6 +27,8 @@
 
  ## Analisis Sentimen Pengguna pada Aplikasi X di Google Play Store Menggunakan Metode Y
 
+(Masih belum mengetahui metode apa yang akan digunakan)
+
  1. Indentifikasi persoalan praktis :
 
     - Pemahaman Persepsi Pengguna : Bagaimana pengguna sebenarnya merasakan dan mempersepsikan aplikasi X? Apakah ulasan mereka positif, negatif, atau netral?
