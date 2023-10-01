@@ -1,1 +1,1 @@
-# kuliah-riset-informatika
+Repository ini dibuat sebagai sarana dalam mengikuti perkuliahan Riset Informatika C
