@@ -25,7 +25,7 @@
 
     - Analisis Kinerja Website : Teori ini melibatkan pengukuran metrik seperti lalu lintas situs web, konversi, dan retensi pengguna untuk mengukur efektivitas website dalam mencapai tujuan pemasaran.
 
- ## Analisis Sentimen Pengguna pada Aplikasi X di Google Play Store Menggunakan Metode Y
+ ## Analisis Sentimen Pengguna pada Aplikasi TIX ID di Google Play Store Menggunakan Metode Y dengan Natural Language Processing
 
 (Masih belum mengetahui metode apa yang akan digunakan)
 
