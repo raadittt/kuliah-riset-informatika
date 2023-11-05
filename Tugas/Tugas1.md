@@ -25,7 +25,7 @@
 
     - Teori Pengaruh Geografis terhadap Pola Polusi: Konsep ini mencakup pemahaman tentang bagaimana faktor geografis dan lingkungan memengaruhi tingkat polusi di suatu daerah, serta dampaknya terhadap persepsi dan respons masyarakat.
 
- ## Analisis Sentimen Pengguna pada Aplikasi TIX ID di Google Play Store Menggunakan Metode Y dengan Natural Language Processing
+ ## Analisis Sentimen Pengguna pada Aplikasi TIX ID di Google Play Store Menggunakan Metode Y
 
 (Masih belum mengetahui metode apa yang akan digunakan)
 
