@@ -1,29 +1,29 @@
- ## Perancangan dan Pengembangan Aplikasi Berbasis Web Profil Lembaga X untuk Pemasaran Secara Online
+ ## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia
  1. Identifikasi Persoalan Praktis :
 
-    - Visibilitas Online yang Rendah:  Lembaga X mungkin memiliki visibilitas yang rendah di dunia maya, sehingga relevan untuk mengidentifikasi cara meningkatkan visibilitas online mereka.
+    - Pemahaman Persepsi Masyarakat: Bagaimana masyarakat Indonesia memandang isu polusi di negara mereka, dan bagaimana hal ini tercermin dalam percakapan di Twitter?
 
-    - Keterbatasan Pengalaman Pengguna (UX): Aplikasi berbasis web profil Lembaga X mungkin belum dioptimalkan untuk pengalaman pengguna yang baik, yang dapat memengaruhi keterlibatan pengunjung.
+    - Pengaruh Kampanye Kesadaran: Sejauh mana kampanye kesadaran terhadap polusi telah memengaruhi persepsi dan tindakan masyarakat terkait isu tersebut, dan apakah hal ini terlihat dari analisis sentimen di Twitter?
 
-    - Kinerja Pemasaran yang Kurang Optimal: Kemungkinan Lembaga X ingin meningkatkan efektivitas kampanye pemasaran online mereka dan mendekati target audiens yang lebih luas.
+    - Konteks Geografis dan Lingkungan: Bagaimana lokasi dan konteks lingkungan berkontribusi terhadap persepsi dan sentimen pengguna terkait polusi di Indonesia?
 
 2. Research Question :
 
-    - Bagaimana pengembangan aplikasi berbasis web profil Lembaga X dapat meningkatkan visibilitas online mereka?
+    - Bagaimana sentimen pengguna Twitter terhadap isu polusi di Indonesia selama periode waktu tertentu?
 
-    - Apakah ada strategi pemasaran online tertentu yang dapat meningkatkan efektivitas kampanye pemasaran Lembaga X?
+    - Sejauh mana kampanye kesadaran terhadap polusi telah memengaruhi persepsi dan tindakan masyarakat, dan bagaimana hal ini tercermin dalam analisis sentimen di Twitter?
 
-    - Bagaimana desain antarmuka pengguna (UX) yang responsif dapat meningkatkan keterlibatan pengunjung pada website profil Lembaga X?
+    - Bagaimana sentimen terkait polusi bervariasi di berbagai wilayah di Indonesia, dan bagaimana faktor geografis dan lingkungan memengaruhi persepsi masyarakat?
 
 3. Teori yang relevan dengan topik :
 
-    - Teori Pengembangan Aplikasi Web : Teori ini mencakup konsep-konsep seperti pemilihan teknologi pengembangan, keamanan aplikasi web, dan pemeliharaan aplikasi web.
+    - Teori Sosial Media dan Opini Publik: Teori ini mempelajari bagaimana opini publik terbentuk dan tersebar melalui media sosial, dan bagaimana platform tersebut memengaruhi persepsi masyarakat terhadap isu-isu tertentu.
 
-    - Teori Pemasaran Digital: Teori ini mencakup konsep-konsep seperti SEO (Search Engine Optimization), media sosial, iklan online, dan strategi pemasaran digital lainnya yang relevan dalam konteks pemasaran online.
+    - Analisis Sentimen dan Pemrosesan Bahasa Alami (NLP): Teori ini berkaitan dengan penggunaan teknik analisis sentimen dan pemrosesan bahasa alami untuk mengidentifikasi dan menganalisis sentimen dan opini dalam teks pengguna
 
-    - Teori Desain Responsif : Teori ini menjelaskan pentingnya desain yang responsif dalam memastikan aplikasi web dapat diakses dan digunakan dengan baik di berbagai perangkat, termasuk perangkat mobile.
+    - Teori Lingkungan dan Kesehatan Masyarakat: Teori ini mengeksplorasi dampak polusi terhadap kesehatan masyarakat dan lingkungan, serta cara-cara untuk meningkatkan kesadaran dan tindakan dalam menangani masalah lingkungan.
 
-    - Analisis Kinerja Website : Teori ini melibatkan pengukuran metrik seperti lalu lintas situs web, konversi, dan retensi pengguna untuk mengukur efektivitas website dalam mencapai tujuan pemasaran.
+    - Teori Pengaruh Geografis terhadap Pola Polusi: Konsep ini mencakup pemahaman tentang bagaimana faktor geografis dan lingkungan memengaruhi tingkat polusi di suatu daerah, serta dampaknya terhadap persepsi dan respons masyarakat.
 
  ## Analisis Sentimen Pengguna pada Aplikasi TIX ID di Google Play Store Menggunakan Metode Y dengan Natural Language Processing
 
