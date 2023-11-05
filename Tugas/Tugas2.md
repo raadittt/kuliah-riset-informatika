@@ -14,3 +14,7 @@
 ## Metode yang akan Digunakan
 
 - Metode : Metode penelitian yang rencananya akan saya gunakan meliputi pengumpulan data, pelabelan data, prapemrosesan, pembobotan, penerapan metode, dan pengujian. Proses analisis dimulai dengan merakit data Twitter menggunakan twints, melabeli data, dan menyiapkan data melalui preprocessing yang meliputi beberapa langkah seperti cleaning, case folding, tokenizing, stopwords, dan stemming, proses pembobotan kata TF -IDF, proses penerapan metode, dan proses pelaksanaan ujian pengujian menggunakan training set. Metode Naive Bayes (NB), Support Vector Machine (SVM), dan Decision Tree adalah algoritma pengujiannya.
+
+## Progress Riset
+
+- Progress dari riset saya yaitu saya sudah menentukan topik / judul dari riset yang saya minati yaitu 'Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia' dan metode yang akan saya gunakan dalam penelitian ini. Tahap selanjutnya yang akan saya kerjakan yaitu menentukan frasa pencarian yang akan digunakan pada tahap 'Pengumpulan Data' (Mengacu pada Paper Pendukung No.2).
