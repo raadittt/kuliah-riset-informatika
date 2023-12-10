@@ -1,4 +1,6 @@
- ## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia
+ # Progress Terbaru dapat diakses melalui link berikut : [LINK PROGRESS](https://github.com/raadittt/kuliah-riset-informatika/blob/main/README.md)
+
+## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia
  1. Identifikasi Persoalan Praktis :
 
     - Pemahaman Persepsi Masyarakat: Bagaimana masyarakat Indonesia memandang isu polusi di negara mereka, dan bagaimana hal ini tercermin dalam percakapan di Twitter?
