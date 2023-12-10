@@ -67,9 +67,6 @@ Melalui pertanyaan-pertanyaan ini, studi ini bertujuan untuk merinci dan memaham
 
 - ### Tujuan 
 
-  1. **Menganalisis Sentimen Pengguna Twitter** :
-Menyelidiki dan menganalisis sentimen pengguna Twitter terkait isu polusi di Indonesia selama periode waktu tertentu. Hal ini akan memberikan gambaran tentang bagaimana masyarakat menyikapi dan merespons masalah polusi melalui platform media sosial.
-  2. **Memahami Variasi Sentimen Regional** :
-Meneliti bagaimana sentimen terkait polusi bervariasi di berbagai wilayah di Indonesia. Dengan memperhatikan faktor geografis dan lingkungan, penelitian ini bertujuan untuk memahami perbedaan persepsi masyarakat terhadap polusi di setiap wilayah, memberikan wawasan yang dapat menjadi dasar untuk pengembangan strategi penanggulangan yang lebih tepat sasaran.
-  3. **Mengaplikasikan Metode Klasifikasi** :
-Menggunakan algoritma klasifikasi seperti Naive Bayes, Support Vector Machine (SVM), dan Decision Tree untuk menganalisis data sentimen Twitter. Tujuannya adalah menghasilkan hasil yang akurat dan dapat diinterpretasikan, sehingga memberikan wawasan yang lebih mendalam tentang pola-pola sentimen yang ada.
+ 1. **Menganalisis Sentimen Pengguna Twitter** : Menyelidiki dan menganalisis sentimen pengguna Twitter terkait isu polusi di Indonesia selama periode waktu tertentu. Hal ini akan memberikan gambaran tentang bagaimana masyarakat menyikapi dan merespons masalah polusi melalui platform media sosial.
+  2. **Memahami Variasi Sentimen Regional** : Meneliti bagaimana sentimen terkait polusi bervariasi di berbagai wilayah di Indonesia. Dengan memperhatikan faktor geografis dan lingkungan, penelitian ini bertujuan untuk memahami perbedaan persepsi masyarakat terhadap polusi di setiap wilayah, memberikan wawasan yang dapat menjadi dasar untuk pengembangan strategi penanggulangan yang lebih tepat sasaran.
+  3. **Mengaplikasikan Metode Klasifikasi** : Menggunakan algoritma klasifikasi seperti Naive Bayes, Support Vector Machine (SVM), dan Decision Tree untuk menganalisis data sentimen Twitter. Tujuannya adalah menghasilkan hasil yang akurat dan dapat diinterpretasikan, sehingga memberikan wawasan yang lebih mendalam tentang pola-pola sentimen yang ada.
