@@ -1,3 +1,4 @@
+ # Progress Terbaru dapat diakses melalui link berikut : [LINK PROGRESS](https://github.com/raadittt/kuliah-riset-informatika/blob/main/README.md)
  # Tugas 2
  ## Paper Pendukung dengan Metode / Metodologi
 - Paper 1 : https://www.researchgate.net/profile/Angellita-Novianti/publication/359809801_LITERATURE_REVIEW_ANALISIS_METODOLOGI_DAN_BIDANG_PENERARAPAN_DALAM_PERANCANGAN_APLIKASI_MOBILE/links/624f8a87d726197cfd451103/LITERATURE-REVIEW-ANALISIS-METODOLOGI-DAN-BIDANG-PENERARAPAN-DALAM-PERANCANGAN-APLIKASI-MOBILE.pdf
