@@ -1,3 +1,5 @@
+# Progress Riset Informatika
+
 - Nama : Rafi Aditya Mahendra
 - NPM : 20081010208
 - Topik Riset :
