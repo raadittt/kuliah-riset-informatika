@@ -3,7 +3,7 @@
 - Nama : Rafi Aditya Mahendra
 - NPM : 20081010208
 - Topik Riset :
-## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia
+## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia Menggunakan InSet Lexicon
 1. Identifikasi Persoalan Praktis :
 
     - Pemahaman Persepsi Masyarakat: Bagaimana masyarakat Indonesia memandang isu polusi di negara mereka, dan bagaimana hal ini tercermin dalam percakapan di Twitter?
