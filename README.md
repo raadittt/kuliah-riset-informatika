@@ -36,9 +36,9 @@ Polusi udara di Indonesia merupakan persoalan serius yang dapat memengaruhi kese
 
 - Dengan demikian, metode merujuk pada teknik khusus yang digunakan untuk mengumpulkan data, sementara metodologi merujuk pada rencana umum atau pendekatan yang mencakup pemilihan dan penggunaan metode tertentu dalam penelitian. Kedua konsep ini bekerja secara bersamaan untuk memastikan keandalan dan validitas penelitian atau karya ilmiah.
 
-## Metode yang akan Digunakan
+## Metode / Metodologi yang akan Digunakan
 
-- Metode : Metodologi penelitian dapat mencakup pengumpulan data dari Twitter menggunakan API, pembentukan dataset, analisis sentimen menggunakan InSet Lexicon, dan teknik pemodelan data untuk mengekstrak pola-pola tertentu. Pemetaan geografis dapat dilakukan untuk menganalisis variabilitas sentimen antar wilayah di Indonesia. Penelitian ini dapat bersifat longitudinal untuk melacak perkembangan sentimen seiring waktu.
+- Metodologi : Metodologi penelitian dapat mencakup pengumpulan data dari Twitter menggunakan API, pembentukan dataset, analisis sentimen menggunakan InSet Lexicon, dan teknik pemodelan data untuk mengekstrak pola-pola tertentu. Pemetaan geografis dapat dilakukan untuk menganalisis variabilitas sentimen antar wilayah di Indonesia. Penelitian ini dapat bersifat longitudinal untuk melacak perkembangan sentimen seiring waktu.
 
 ## Progress Riset
 
