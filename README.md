@@ -1,6 +1,7 @@
 - Nama : Rafi Aditya Mahendra
 - NPM : 20081010208
 - Topik Riset :
+### PENJELASAN SINGKAT : 
 ## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia Menggunakan InSet Lexicon
 1. Identifikasi Persoalan Praktis :
 Polusi udara di Indonesia merupakan persoalan serius yang dapat memengaruhi kesehatan masyarakat dan lingkungan. Sosial media, khususnya Twitter, menjadi platform yang relevan untuk memahami pandangan dan perasaan masyarakat terkait polusi udara. Identifikasi persoalan praktis yang muncul adalah bagaimana analisis sentimen pengguna Twitter dapat memberikan wawasan tentang persepsi dan tanggapan mereka terhadap polusi udara di Indonesia. Informasi ini dapat menjadi dasar bagi kebijakan pemerintah dan upaya mitigasi polusi.
