@@ -38,7 +38,7 @@ Polusi udara di Indonesia merupakan persoalan serius yang dapat memengaruhi kese
 
 ## Metode / Metodologi yang akan Digunakan
 
-- Metodologi : Metodologi penelitian dapat mencakup pengumpulan data dari Twitter menggunakan Tweet Harvest, pembentukan dataset, analisis sentimen menggunakan InSet Lexicon, dan teknik pemodelan data untuk mengekstrak pola-pola tertentu. Pemetaan geografis dapat dilakukan untuk menganalisis variabilitas sentimen antar wilayah di Indonesia. Penelitian ini dapat bersifat longitudinal untuk melacak perkembangan sentimen seiring waktu.
+- Metodologi : Metodologi penelitian dapat mencakup pengumpulan data dari Twitter menggunakan Tweet Harvest, pembentukan dataset, analisis sentimen menggunakan Lexicon-based Approach dengan kamus InSet Lexicon, dan teknik pemodelan data untuk mengekstrak pola-pola tertentu. Pemetaan geografis dapat dilakukan untuk menganalisis variabilitas sentimen antar wilayah di Indonesia. Penelitian ini dapat bersifat longitudinal untuk melacak perkembangan sentimen seiring waktu.
 
 ## Progress Riset
 
