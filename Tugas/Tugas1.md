@@ -1,4 +1,4 @@
- # Progress Terbaru dapat diakses melalui link berikut : [LINK PROGRESS RISET INFORMATIKA](https://github.com/raadittt/kuliah-riset-informatika/blob/main/README.md), Atau dapat langsung melihat pada file README.md.
+ # Progress Terbaru / Penjelasan Singkat dapat diakses melalui link berikut : [LINK PROGRESS RISET INFORMATIKA](https://github.com/raadittt/kuliah-riset-informatika/blob/main/README.md), Atau dapat langsung melihat pada file README.md.
 
 ## Analisis Sentimen Pengguna Sosial Media Twitter Terhadap Polusi Di Indonesia
  1. Identifikasi Persoalan Praktis :
